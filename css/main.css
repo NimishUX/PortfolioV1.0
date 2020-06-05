@@ -1,0 +1,176 @@
+body
+{
+	background-color: #1f202b;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#intro
+{
+	height: 725px;
+	background: url("C:/Users/gnimi/Documents/web/portfolio/img/hero.png");
+	margin-top: 50px;
+}
+#port
+{
+	height: 1350px;
+}
+
+#about
+{
+	height: 550px;
+	background-image: url("C:/Users/gnimi/Documents/web/portfolio/img/about.png");
+}
+
+#contact
+{
+	height: 400px;
+}
+
+nav 
+{
+    float: right; 
+    padding: 0px 46px;
+    margin-top: -56px;
+}
+
+nav li 
+{
+    display: inline-block;
+    padding-left: 110px;
+}
+
+nav a
+{
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}    
+
+div #int
+{
+	padding: 68px;
+	line-height: 42px;
+}
+
+#int p 
+{
+    width: 440px;
+}
+    
+h2
+{
+	text-align: center; 
+	margin: 20px 0 80px 0;
+}
+
+#port img
+{
+    transform: scale(1.0);
+    transition: 1s;
+    box-sizing: border-box;
+    width: 550px;
+    height: 350px;
+}
+
+#port img:hover
+{
+	transform: scale(1.1);
+}    
+
+.ju
+{
+	width: 50%;
+	float: left;
+	margin-bottom: 90px;
+}
+
+.ju img 
+{
+    margin-left: 54px;
+}
+
+.ju h4
+{
+	 margin-left: 54px;
+}
+
+.ro
+{
+	width: 50%;
+	float: right;
+	margin-bottom: 90px;
+}
+
+.re
+{
+	text-align: center; 
+	clear: both;
+}
+
+#about p
+{
+    width: 460px;
+    margin-left: 30px;
+    font-size: 22px;
+    font-weight: 400;
+    color: #1f202b;
+    float: left;
+ }
+
+#about h4 
+{
+    text-align: center;
+    padding-top: 22px;
+    font-size: 26px;
+    color: #db5c21;
+}
+
+#about h3
+{
+    margin-left: 30px;
+    font-size: 22px;
+    color: #352f4a;
+}
+
+.cont 
+{
+    width: 600px;
+    float: left;
+}
+
+.social-media
+{
+    width: 600px;
+    float: right;
+}
+
+.cont h3 
+{
+    text-align: center;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+.cont p 
+{
+    text-align: center;
+    font-size: 20px;
+}
+
+.social-media img 
+{
+    margin-top: 2px;
+}
+
+.social-media h3 
+{
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+img#ins 
+{
+    margin-left: 34px;
+}
